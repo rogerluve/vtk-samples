@@ -1,0 +1,6 @@
+Add to path:
+C:\Qt\Qt5.9.9\5.9.9\msvc2017_64\bin
+C:\VTK\VTK-8.2.0-Install-VS2017-x64-Debug\bin
+
+Create a new environment variable:
+VTK_DIR = C:\VTK\VTK-8.2.0-Install-VS2017-x64-Debug\lib\cmake\vtk-8.2
